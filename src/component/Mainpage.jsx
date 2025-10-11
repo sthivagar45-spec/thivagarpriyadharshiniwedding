@@ -166,7 +166,7 @@ l147 -6 0 -56 c0 -69 -30 -199 -64 -276 -63 -142 -199 -294 -332 -373 -38 -23
 
         </div>
         <footer className='py-3 pb-0 text-[#8162a2]'><p className='text-xs font-medium'>We look forward to sharing this special day with you. With love and gratitude,</p>
-          <p className='text-center text-black text-xs  font-medium mt-1'>&#x2764; &#x2764; Thivagar & Priyadhirisini &#x2764; &#x2764;</p>
+          <p className='text-center text-black text-xs  font-medium mt-1'>&#x2764; &#x2764; Thivagar & Priyadharshini &#x2764; &#x2764;</p>
 
         </footer>
       </div>
